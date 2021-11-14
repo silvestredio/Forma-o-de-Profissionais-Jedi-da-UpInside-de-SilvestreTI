@@ -1,54 +1,48 @@
 # Formação de Profissionais Jedi da UpInside de #SilvestreTI
 
-Com 13 Cursos em 617 Atividades com Carga Horária de 471 horas. Foram 21 meses de Estudos e Aprendizagem das Boas Práticas e do Jeito Certo. #PHPraiz #SilvestreTI
+Com 19 Cursos em _x_x_ Atividades com Carga Horária de _x_x_ horas. Foram _x_x_ meses de Estudos e Aprendizagem das Boas Práticas e do Jeito Certo. #PHPraiz #SilvestreTI
 
-## Cursos #UpInside (Atividades / Horas)
+## Cursos #UpInside
 
-#### [1. Full Stack PHP Developer Atividades 200 / CH 145](https://www.upinside.com.br/certificados/5572962202005)
+#### [1. Full Stack PHP Developer Atividades](https://www.upinside.com.br/certificados/5572962202005)
 
-#### [2. Web Master Business 38 / 72](https://www.upinside.com.br/certificados/5572953201912)
+#### [2. Web Master Business](https://www.upinside.com.br/certificados/5572953201912)
 
-#### [3. HTML5 e CSS3 Essentials 79 / 45](https://www.upinside.com.br/certificados/5572960202005)
+#### [3. HTML5 e CSS3 Essentials](https://www.upinside.com.br/certificados/5572960202005)
 
-#### [4. Webdesign em Produção 57 / 35](https://www.upinside.com.br/certificados/5572951202006)
+#### [4. Webdesign em Produção](https://www.upinside.com.br/certificados/5572951202006)
 
-#### [5. jQuery Essentials 54 / 35](https://www.upinside.com.br/certificados/5572954202005)
+#### [5. jQuery Essentials](https://www.upinside.com.br/certificados/5572954202005)
 
-#### [6. DevTools Essentials 20 / 34](https://www.upinside.com.br/certificados/5572961201912)
+#### [6. DevTools Essentials](https://www.upinside.com.br/certificados/5572961201912)
 
-#### [7. Mindset Empreendedor 51 / 25](https://www.upinside.com.br/certificados/5572942202005)
+#### [7. Mindset Empreendedor](https://www.upinside.com.br/certificados/5572942202005)
 
-#### [8. Git Workflow 42 / 15](https://www.upinside.com.br/certificados/5572948202005)
+#### [8. Git Workflow](https://www.upinside.com.br/certificados/5572948202005)
 
-#### [9. Wordpress Essentials 20 / 15](https://www.upinside.com.br/certificados/5572967202005)
+#### [9. Wordpress Essentials](https://www.upinside.com.br/certificados/5572967202005)
 
-#### [10. Domínio e Hospedagem 10 / 15](https://www.upinside.com.br/certificados/5572939201912)
+#### [10. Domínio e Hospedagem](https://www.upinside.com.br/certificados/5572939201912)
 
-#### [11. Ferramentas e Configurações 9 / 15](https://www.upinside.com.br/certificados/5572940201912)
+#### [11. Ferramentas e Configurações](https://www.upinside.com.br/certificados/5572940201912)
 
-#### [12. Composer na Prática 22 / 10](https://www.upinside.com.br/certificados/5572956202004)
+#### [12. Composer na Prática](https://www.upinside.com.br/certificados/5572956202004)
 
-#### [13. Ambiente Local com Docker 15 / 10](https://www.upinside.com.br/certificados/5572970202005)
+#### [13. Ambiente Local com Docker](https://www.upinside.com.br/certificados/5572970202005) 
 
-#### [14. CSS Produtivo com SASS de carga horária estimada em 10 horas, realizando 10 de 10 atividades, no período de 14/08/2020 a 14/09/2020.](https://www.upinside.com.br/certificados/5572969202009)
-![UpInside CSS Produtivo com SASS](https://user-images.githubusercontent.com/76437195/104111197-9c505280-52b5-11eb-8e5c-93fc6431bfab.jpg)
+#### [14. CSS Produtivo com SASS](https://www.upinside.com.br/certificados/5572969202009)
 
-#### [15. MariaDB Essentials de carga horária estimada em 30 horas, realizando 66 de 66 atividades, no período de 14/09/2020 a 10/10/2020.](https://www.upinside.com.br/certificados/5572949202010)
-![UpInside MariaDB essentials](https://user-images.githubusercontent.com/76437195/104112101-04f0fc80-52c1-11eb-9f0b-d2404e9a7a92.jpg)
+#### [15. MariaDB Essentials](https://www.upinside.com.br/certificados/5572949202010)
 
-#### [16. ActiveCampaign de carga horária estimada em 30 horas, realizando 48 de 48 atividades, no período de 18/09/2020 a 13/10/2020.](https://www.upinside.com.br/certificados/5572943202010)
-![UpInside ActiveCampaign](https://user-images.githubusercontent.com/76437195/104112093-e854c480-52c0-11eb-8c4d-8053ffe7e1d7.jpg)
+#### [16. ActiveCampaign](https://www.upinside.com.br/certificados/5572943202010)
 
-#### [17. Facebook Ads de carga horária estimada em 35 horas, realizando 50 de 50 atividades, no período de 18/09/2020 a 15/10/2020.](https://www.upinside.com.br/certificados/5572944202010)
-![UpInside Facebook ADS](https://user-images.githubusercontent.com/76437195/104112098-f60a4a00-52c0-11eb-81fa-ed82fb0004ed.jpg)
+#### [17. Facebook Ads](https://www.upinside.com.br/certificados/5572944202010)
 
-#### [18.Bootstrap Builder de carga horária estimada em 25 horas, realizando 28 de 28 atividades, no período de 21/12/2020 a 31/07/2021.](https://www.upinside.com.br/certificados/5572964202107) 
-![BOOTSTRAP BUILDER](https://user-images.githubusercontent.com/93165498/141688939-60ae1bdf-9ba8-4f2c-8938-1f6b16b01b05.jpg)
+#### [18.Bootstrap Builder](https://www.upinside.com.br/certificados/5572964202107) 
 
-#### [19.Laravel Developer de carga horária estimada em 160 horas, realizando 196 de 196 atividades, no período de 28/11/2020 a 07/08/2021](https://www.upinside.com.br/certificados/5572963202108) 
-![LARAVEL](https://user-images.githubusercontent.com/93165498/141688943-dea2237c-70f6-45b9-8948-e4807ba0925e.jpg)
+#### [19.Laravel Developer](https://www.upinside.com.br/certificados/5572963202108) 
 
-# Primeiras 13 Formações:
+# 19 Formações (Atividades e Periodo)
 
 #### [1. Full Stack PHP Developer de carga horária estimada em 145 horas, realizando 200 de 200 atividades, no período de 16/08/2018 a 17/05/2020](https://www.upinside.com.br/certificados/5572962202005)
 ![UPInside 01 FullStack PHP Developer](https://user-images.githubusercontent.com/76437195/104111175-6f03a480-52b5-11eb-96a0-2f91215b5f96.jpg)
@@ -88,6 +82,25 @@ Com 13 Cursos em 617 Atividades com Carga Horária de 471 horas. Foram 21 meses 
 
 #### [13. Ambiente Local com Docker de carga horária estimada em 10 horas, realizando 15 de 15 atividades, no período de 28/04/2020 a 07/05/2020.](https://www.upinside.com.br/certificados/5572970202005)
 ![UpInside 13 Ambiente Local com Docker](https://user-images.githubusercontent.com/76437195/104111187-8d69a000-52b5-11eb-8c25-17006921bd9a.jpg)  
+
+#### [14. CSS Produtivo com SASS de carga horária estimada em 10 horas, realizando 10 de 10 atividades, no período de 14/08/2020 a 14/09/2020.](https://www.upinside.com.br/certificados/5572969202009)
+![UpInside CSS Produtivo com SASS](https://user-images.githubusercontent.com/76437195/104111197-9c505280-52b5-11eb-8e5c-93fc6431bfab.jpg)
+
+#### [15. MariaDB Essentials de carga horária estimada em 30 horas, realizando 66 de 66 atividades, no período de 14/09/2020 a 10/10/2020.](https://www.upinside.com.br/certificados/5572949202010)
+![UpInside MariaDB essentials](https://user-images.githubusercontent.com/76437195/104112101-04f0fc80-52c1-11eb-9f0b-d2404e9a7a92.jpg)
+
+#### [16. ActiveCampaign de carga horária estimada em 30 horas, realizando 48 de 48 atividades, no período de 18/09/2020 a 13/10/2020.](https://www.upinside.com.br/certificados/5572943202010)
+![UpInside ActiveCampaign](https://user-images.githubusercontent.com/76437195/104112093-e854c480-52c0-11eb-8c4d-8053ffe7e1d7.jpg)
+
+#### [17. Facebook Ads de carga horária estimada em 35 horas, realizando 50 de 50 atividades, no período de 18/09/2020 a 15/10/2020.](https://www.upinside.com.br/certificados/5572944202010)
+![UpInside Facebook ADS](https://user-images.githubusercontent.com/76437195/104112098-f60a4a00-52c0-11eb-81fa-ed82fb0004ed.jpg)
+
+#### [18.Bootstrap Builder de carga horária estimada em 25 horas, realizando 28 de 28 atividades, no período de 21/12/2020 a 31/07/2021.](https://www.upinside.com.br/certificados/5572964202107) 
+![BOOTSTRAP BUILDER](https://user-images.githubusercontent.com/93165498/141688939-60ae1bdf-9ba8-4f2c-8938-1f6b16b01b05.jpg)
+
+#### [19.Laravel Developer de carga horária estimada em 160 horas, realizando 196 de 196 atividades, no período de 28/11/2020 a 07/08/2021](https://www.upinside.com.br/certificados/5572963202108) 
+![LARAVEL](https://user-images.githubusercontent.com/93165498/141688943-dea2237c-70f6-45b9-8948-e4807ba0925e.jpg)
+
 
 ## (I) [Fonte: Perfil OSF no Facebook Acesso em 12 de julho de 2020](https://www.facebook.com/SilvestreOSF/posts/4003349686401752)
 

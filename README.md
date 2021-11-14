@@ -1,6 +1,6 @@
-# Formação de Profissionais Jedi da UpInside de #SilvestreTI
+## Formação de Profissionais Jedi da UpInside de #SilvestreTI
 
-Com 19 Cursos em _x_x_ Atividades com Carga Horária de _x_x_ horas. Foram _x_x_ meses de Estudos e Aprendizagem das Boas Práticas e do Jeito Certo. #PHPraiz #SilvestreTI
+Com 19 Cursos em 1.015 Atividades com Carga Horária de 761 horas. Foram 39 meses de Estudos e Aprendizagem das Boas Práticas e do Jeito Certo. #PHPraiz #SilvestreTI
 
 ## Cursos #UpInside
 
@@ -38,7 +38,7 @@ Com 19 Cursos em _x_x_ Atividades com Carga Horária de _x_x_ horas. Foram _x_x_
 
 #### [17. Facebook Ads](https://www.upinside.com.br/certificados/5572944202010)
 
-#### [18.Bootstrap Builder](https://www.upinside.com.br/certificados/5572964202107) 
+#### [18. Bootstrap Builder](https://www.upinside.com.br/certificados/5572964202107) 
 
 #### [19.Laravel Developer](https://www.upinside.com.br/certificados/5572963202108) 
 
@@ -104,45 +104,46 @@ Com 19 Cursos em _x_x_ Atividades com Carga Horária de _x_x_ horas. Foram _x_x_
 
 ## (I) [Fonte: Perfil OSF no Facebook Acesso em 12 de julho de 2020](https://www.facebook.com/SilvestreOSF/posts/4003349686401752)
 
-## (II) ## [Fonte: Perfil OSF no Facebook Acesso em 20 de outubro de 2021](https://www.facebook.com/trilhosdigitaisms/posts/677317263223270)
+## (II) [Fonte: Perfil OSF no Facebook Acesso em 20 de outubro de 2021](https://www.facebook.com/trilhosdigitaisms/posts/677317263223270)
 
-Aqui as nove Conquistas do #SilvestreTI na #Plataforma @UpInside. Foram 36 meses de Estudos e Aprendizagem das Boas Práticas e do Jeito Certo na UpInside, para ter a Formação de #ProfissionalJedi da #UpInsideTreinamentos
-Conquistas #UpInside #ProfissionaisJedi  
+## Aqui as nove Conquistas do #SilvestreTI na #Plataforma @UpInside. Foram 36 meses de Estudos e Aprendizagem das Boas Práticas e do Jeito Certo na UpInside, para ter a Formação de #ProfissionalJedi da #UpInsideTreinamentos
 
-## 9. Aluno Autoridade 
+### Conquistas #UpInside #ProfissionaisJedi  
+
+### 9. Aluno Autoridade 
 (8.458 17ago2021)
 https://www.upinside.com.br/conquistas/59570
 
-## 1. Full Stack Developer 
+### 1. Full Stack Developer 
 (maio/20 ~> ago/21) 
 (85 ~> 157) 
 https://www.upinside.com.br/conquistas/46823
 
-## 2. Espírito de Equipe
+### 2. Espírito de Equipe
 (28 ~>  29)
 https://www.upinside.com.br/conquistas/46829
 
-## 3. Espírito de Liderança 
+### 3. Espírito de Liderança 
 (39 ~>  42)
 https://www.upinside.com.br/conquistas/46563
 
-## 4. Trilha do Sucesso
+### 4. Trilha do Sucesso
 (827 ~>  1.015)
 https://www.upinside.com.br/conquistas/46500
 
-## 5. Primeiros Passos
+### 5. Primeiros Passos
 (1.987 ~>  2.447)
 https://www.upinside.com.br/conquistas/41.415
 
-## 6. Perfil Qualificado
+### 6. Perfil Qualificado
 (2.961~>  4.528)
 https://www.upinside.com.br/conquistas/46312
 
-## 7. Aluno Veterano
+### 7. Aluno Veterano
 (8.740 ~>  11.849)
- https://www.upinside.com.br/conquistas/39670 
+https://www.upinside.com.br/conquistas/39670 
 
-## 8. Aluno Oficial
+### 8. Aluno Oficial
 (11.382 ~>  13.265)
 https://www.upinside.com.br/conquistas/34011
 

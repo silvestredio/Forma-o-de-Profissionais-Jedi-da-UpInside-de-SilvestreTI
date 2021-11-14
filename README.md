@@ -42,9 +42,11 @@ Com 13 Cursos em 617 Atividades com Carga Horária de 471 horas. Foram 21 meses 
 #### [17. Facebook Ads de carga horária estimada em 35 horas, realizando 50 de 50 atividades, no período de 18/09/2020 a 15/10/2020.](https://www.upinside.com.br/certificados/5572944202010)
 ![UpInside Facebook ADS](https://user-images.githubusercontent.com/76437195/104112098-f60a4a00-52c0-11eb-81fa-ed82fb0004ed.jpg)
 
-#### [18.Bootstrap Builder de carga horária estimada em 25 horas, realizando 28 de 28 atividades, no período de 21/12/2020 a 31/07/2021.](https://www.upinside.com.br/certificados/5572964202107)
+#### [18.Bootstrap Builder de carga horária estimada em 25 horas, realizando 28 de 28 atividades, no período de 21/12/2020 a 31/07/2021.](https://www.upinside.com.br/certificados/5572964202107) 
+![BOOTSTRAP BUILDER](https://user-images.githubusercontent.com/93165498/141688939-60ae1bdf-9ba8-4f2c-8938-1f6b16b01b05.jpg)
 
-#### [19.Laravel Developer de carga horária estimada em 160 horas, realizando 196 de 196 atividades, no período de 28/11/2020 a 07/08/2021](https://www.upinside.com.br/certificados/5572963202108)
+#### [19.Laravel Developer de carga horária estimada em 160 horas, realizando 196 de 196 atividades, no período de 28/11/2020 a 07/08/2021](https://www.upinside.com.br/certificados/5572963202108) 
+![LARAVEL](https://user-images.githubusercontent.com/93165498/141688943-dea2237c-70f6-45b9-8948-e4807ba0925e.jpg)
 
 # Primeiras 13 Formações:
 

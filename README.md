@@ -42,7 +42,9 @@ Com 19 Cursos em 1.015 Atividades com Carga Horária de 761 horas. Foram 39 mese
 
 #### [19.Laravel Developer](https://www.upinside.com.br/certificados/5572963202108) 
 
-# 19 Formações (Atividades e Periodo)
+# 19 Formações (Atividades e Periodo) 
+
+![UPINSIDE Formacoes SilvestreTI](https://user-images.githubusercontent.com/93165498/141692588-ad5a7d1c-be0b-485f-9dcc-8d31bf89fa4e.jpg)
 
 #### [1. Full Stack PHP Developer de carga horária estimada em 145 horas, realizando 200 de 200 atividades, no período de 16/08/2018 a 17/05/2020](https://www.upinside.com.br/certificados/5572962202005)
 ![UPInside 01 FullStack PHP Developer](https://user-images.githubusercontent.com/76437195/104111175-6f03a480-52b5-11eb-96a0-2f91215b5f96.jpg)

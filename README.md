@@ -93,7 +93,8 @@ Com 13 Cursos em 617 Atividades com Carga Horária de 471 horas. Foram 21 meses 
 
 Aqui as nove Conquistas do #SilvestreTI na #Plataforma @UpInside. Foram 36 meses de Estudos e Aprendizagem das Boas Práticas e do Jeito Certo na UpInside, para ter a Formação de #ProfissionalJedi da #UpInsideTreinamentos
 Conquistas #UpInside #ProfissionaisJedi  
-9. Aluno Autoridade 
+
+## 9. Aluno Autoridade 
 (8.458 17ago2021)
 https://www.upinside.com.br/conquistas/59570
 
